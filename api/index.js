@@ -17,5 +17,5 @@ if (require.main === module) {
   });
 }
 
-// Export for Vercel
+// Export for Vercel and Netlify
 module.exports = app;
