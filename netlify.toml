@@ -1,5 +1,7 @@
+[build]
+  functions = "netlify/functions"
+
 [functions]
-  external_node_modules = ["express", "serverless-http"]
   node_bundler = "esbuild"
 
 [[redirects]]
