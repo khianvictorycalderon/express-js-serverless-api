@@ -14,8 +14,12 @@ You don’t need to install anything manually, as all dependencies are already m
 This section is provided for reference only, to give you insight into how the project was set up.
 
 ## Dependencies
-- `npm install express cors`
-- `npm install nodemon --save-dev`
+- `express`
+- `cors`
+- `serverless-http`
+
+## Dev Dependencies
+- `nodemon`
 
 ## Configuration
 - Updated `package.json`:
