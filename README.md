@@ -1,5 +1,5 @@
 # Express JS Serverless API
-Configured express to be used on vercel.
+Configured express to be used on vercel or netlify.
 
 ## Steps:
 1. Clone this repository: `git clone https://github.com/khianvictorycalderon/express-js-serverless-api.git`
